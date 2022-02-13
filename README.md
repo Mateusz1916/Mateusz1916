@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mateusz1916.
-- 👀 I’m interested in fotball, martial arts, healthy life and travel.
+- 👀 I’m interested in football, martial arts, healthy life and travel.
 - 🌱 I’m currently learning language Python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me lolekl1916@wp.pl
