@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mateusz Papierowski (@Mateusz1916).
 - 👀 I’m interested in football, martial arts, healthy life and travel.
 - 🌱 I’m currently learning language Python and framework Django.
-- 💞️ Currently looking for a job as Python junior developer.
+- ✨ Currently looking for a job as Python junior developer.
 - 📫 How to reach me lolekl1916@wp.pl
 
 <!---
